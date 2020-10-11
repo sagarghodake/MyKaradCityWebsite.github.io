@@ -9,3 +9,5 @@ The pin code of Karad is 415 110, Karad have independent Regional Transport offi
 
 --------------------------------------
 ![Screenshot (564)](https://user-images.githubusercontent.com/60310009/95652992-c78aa080-0b12-11eb-81b9-50cadd4e4c89.png)
+---------------------------------------------
+A static website contains Web pages with fixed content. Each page is coded in HTML and displays the same information to every visitor. Static sites are the most basic type of website and are the easiest to create. Unlike dynamic websites, they do not require any Web programming or database design. A static site can be built by simply creating a few HTML pages and publishing them to a Web server.
